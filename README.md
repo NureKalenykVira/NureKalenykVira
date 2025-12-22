@@ -73,4 +73,3 @@ Focused on **practical engineering skills, clean architecture and real-world pro
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NureKalenykVira&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NureKalenykVira&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=NureKalenykVira)
