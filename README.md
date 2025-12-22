@@ -51,15 +51,12 @@ Focused on **practical engineering skills, clean architecture and real-world pro
 
 ## Certificates
 
-- **IBM Data Science Professional Certificate**  
-  Coursera · 170+ hours  
-  Python, data analysis, machine learning fundamentals
+- **IBM Data Science Professional Certificate** (Coursera, IBM)  
+- **NIX Academy — Front-End Fundamentals**  
+- **PolyTECH EDU — Technology & Engineering Program**
 
-- **Microsoft Learn — Azure & Cloud Modules**  
-  Containers, Azure Functions, CI/CD basics
-
-- **Blockchain & Cryptography Coursework**  
-  Smart contracts, digital signatures, hashing algorithms
+📄 Full list of certificates:  
+🔗 https://github.com/NureKalenykVira/certificates
 
 ---
 
