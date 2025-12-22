@@ -63,7 +63,6 @@ Focused on **practical engineering skills, clean architecture and real-world pro
 ## What I’m looking for
 
 - **Full-stack internship / junior position**
-- Stack: Angular, TypeScript, Node.js / C#
 - Real product development, code reviews, mentoring
 - Long-term growth as a full-stack engineer
 
