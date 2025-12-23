@@ -107,7 +107,7 @@ System for monitoring food expiration dates and storage conditions using web int
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-<img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-1.png?raw=true" width="24%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-2.png?raw=true" width="24%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-3.png?raw=true" width="24%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-4.png?raw=true" width="24%" />
+<img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-1.png?raw=true" width="24%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-2.png?raw=true" width="24%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-3.png?raw=true" style="max-height: 260px; width: auto;" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-4.png?raw=true" style="max-height: 260px; width: auto;" />
 
 🔗 Repository: https://github.com/NureKalenykVira/apz-pzpi-22-6-kalenyk-vira
 
@@ -152,7 +152,7 @@ Collaborative system for managing family tasks and events with shared access, ro
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-1.png?raw=true" width="32%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-2.png?raw=true" width="32%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-3.png?raw=true" width="32%" />
+<img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-1.png?raw=true" width="32%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-2.png?raw=true" width="32%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-3.png?raw=true" style="max-height: 260px; width: auto;" />
 
 🔗 Repository: https://github.com/NureKalenykVira/home-manager
 
