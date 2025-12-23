@@ -64,21 +64,6 @@ Software Engineering student with hands-on experience in building production-lik
 
 ---
 
-## What I’m looking for
-
-- **Full-stack internship / junior position**
-- Real product development, code reviews, mentoring
-- Long-term growth as a full-stack engineer
-
----
-
-## GitHub Activity
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NureKalenykVira&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NureKalenykVira&show_icons=true)
-
----
-
 ## 📌 Featured Projects
 
 ---
@@ -167,3 +152,18 @@ Interactive visualizations of classical algorithms and data structures with focu
 🔗 Repositories:  
 https://github.com/NureKalenykVira/Ford-Fulkerson-Algorithm-Visualization  
 https://github.com/NureKalenykVira/SplayTreeVisualization
+
+---
+
+## What I’m looking for
+
+- **Full-stack internship / junior position**
+- Real product development, code reviews, mentoring
+- Long-term growth as a full-stack engineer
+
+---
+
+## GitHub Activity
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NureKalenykVira&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NureKalenykVira&show_icons=true)
