@@ -107,10 +107,7 @@ System for monitoring food expiration dates and storage conditions using web int
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-![Fridge](https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-1.png?raw=true)
-![Fridge](https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-2.png?raw=true)
-![Fridge](https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-3.png?raw=true)
-![Fridge](https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-4.png?raw=true)
+<img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-1.png?raw=true" width="24%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-2.png?raw=true" width="24%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-3.png?raw=true" width="24%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-4.png?raw=true" width="24%" />
 
 🔗 Repository: https://github.com/NureKalenykVira/apz-pzpi-22-6-kalenyk-vira
 
@@ -126,9 +123,7 @@ Each book is represented as an NFT, enabling transparent ownership and secure ex
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum)
 
-![BookSwap](https://github.com/NureKalenykVira/portfolio-assets/blob/main/book-swap/BS-1.png?raw=true)
-![BookSwap](https://github.com/NureKalenykVira/portfolio-assets/blob/main/book-swap/BS-2.png?raw=true)
-![BookSwap](https://github.com/NureKalenykVira/portfolio-assets/blob/main/book-swap/BS-3.png?raw=true)
+<img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/book-swap/BS-1.png?raw=true" width="32%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/book-swap/BS-2.png?raw=true" width="32%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/book-swap/BS-3.png?raw=true" width="32%" />
 
 🔗 Repository: https://github.com/NureKalenykVira/book_swap
 
@@ -142,9 +137,7 @@ Web platform for reporting and tracking rescue cases of wild animals, including 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-API-blue?style=flat)
 
-![AnimalRescue](https://github.com/NureKalenykVira/portfolio-assets/blob/main/animal-rescue-system/ARS-1.png?raw=true)
-![AnimalRescue](https://github.com/NureKalenykVira/portfolio-assets/blob/main/animal-rescue-system/ARS-2.png?raw=true)
-![AnimalRescue](https://github.com/NureKalenykVira/portfolio-assets/blob/main/animal-rescue-system/ARS-3.png?raw=true)
+<img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/animal-rescue-system/ARS-1.png?raw=true" width="32%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/animal-rescue-system/ARS-2.png?raw=true" width="32%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/animal-rescue-system/ARS-3.png?raw=true" width="32%" />
 
 🔗 Repository: https://github.com/NureKalenykVira/animal-rescue-system
 
@@ -159,9 +152,7 @@ Collaborative system for managing family tasks and events with shared access, ro
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-![HomeManager](https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-1.png?raw=true)
-![HomeManager](https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-2.png?raw=true)
-![HomeManager](https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-3.png?raw=true)
+<img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-1.png?raw=true" width="32%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-2.png?raw=true" width="32%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-3.png?raw=true" width="32%" />
 
 🔗 Repository: https://github.com/NureKalenykVira/home-manager
 
@@ -171,9 +162,7 @@ Collaborative system for managing family tasks and events with shared access, ro
 
 Interactive visualizations of classical algorithms and data structures with focus on correctness, performance and clear visual explanation.
 
-![Algorithms](https://github.com/NureKalenykVira/portfolio-assets/blob/main/algorithms/AL-1.png?raw=true)
-![Algorithms](https://github.com/NureKalenykVira/portfolio-assets/blob/main/algorithms/AL-2.png?raw=true)
-![Algorithms](https://github.com/NureKalenykVira/portfolio-assets/blob/main/algorithms/AL-3.png?raw=true)
+<img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/algorithms/AL-1.png?raw=true" width="32%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/algorithms/AL-2.png?raw=true" width="32%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/algorithms/AL-3.png?raw=true" width="32%" />
 
 🔗 Repositories:  
 https://github.com/NureKalenykVira/Ford-Fulkerson-Algorithm-Visualization  
