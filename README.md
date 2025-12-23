@@ -66,8 +66,6 @@ Software Engineering student with hands-on experience in building production-lik
 
 ## 📌 Featured Projects
 
----
-
 ### 🛒 Stily Shop — E-commerce Platform with Custom Backend (Full-stack)
 
 Online store with a custom Go backend, featuring product catalog, cart and order processing.
