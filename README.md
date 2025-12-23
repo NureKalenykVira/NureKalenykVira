@@ -1,10 +1,7 @@
 ## Hi there 👋 I’m Vira
 
 Full-stack Developer (Internship / Junior level)  
-Software Engineering student with hands-on experience in building **end-to-end web applications**.
-
-I work across the full stack — from **Angular front-end** and **Node.js / C# back-end** to databases, APIs and cloud deployment.
-Focused on **practical engineering skills, clean architecture and real-world projects**.
+Software Engineering student with hands-on experience in building production-like end-to-end web applications.
 
 📫 **Contact**
 - Email: vira.kalenyk07@gmail.com  
@@ -77,5 +74,109 @@ Focused on **practical engineering skills, clean architecture and real-world pro
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NureKalenykVira&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NureKalenykVira&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NureKalenykVira&show_icons=true)
+
+---
+
+## 📌 Featured Projects
+
+---
+
+### 🛒 Stily Shop — E-commerce Platform with Custom Backend (Full-stack)
+
+Online store with a custom Go backend, featuring product catalog, cart and order processing.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
+
+![StilyShop](https://github.com/NureKalenykVira/portfolio-assets/blob/main/stily-shop/ST-1.png?raw=true)
+![StilyShop](https://github.com/NureKalenykVira/portfolio-assets/blob/main/stily-shop/ST-2.png?raw=true)
+![StilyShop](https://github.com/NureKalenykVira/portfolio-assets/blob/main/stily-shop/ST-3.png?raw=true)
+
+🔗 Repository: https://github.com/NureKalenykVira/stily_shop
+
+---
+
+### ❄️ Fridge System — Smart Food Storage & Monitoring (Full-stack · IoT · Mobile)
+
+System for monitoring food expiration dates and storage conditions using web interface, IoT simulation and mobile application.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+![Fridge](https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-1.png?raw=true)
+![Fridge](https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-2.png?raw=true)
+![Fridge](https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-3.png?raw=true)
+![Fridge](https://github.com/NureKalenykVira/portfolio-assets/blob/main/fridge-system/FS-4.png?raw=true)
+
+🔗 Repository: https://github.com/NureKalenykVira/apz-pzpi-22-6-kalenyk-vira
+
+---
+
+### 📚 BookSwap — NFT-based Book Exchange Platform (Full-stack)
+
+Decentralized platform for exchanging books using NFT ownership.  
+Each book is represented as an NFT, enabling transparent ownership and secure exchanges.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum)
+
+![BookSwap](https://github.com/NureKalenykVira/portfolio-assets/blob/main/book-swap/BS-1.png?raw=true)
+![BookSwap](https://github.com/NureKalenykVira/portfolio-assets/blob/main/book-swap/BS-2.png?raw=true)
+![BookSwap](https://github.com/NureKalenykVira/portfolio-assets/blob/main/book-swap/BS-3.png?raw=true)
+
+🔗 Repository: https://github.com/NureKalenykVira/book_swap
+
+---
+
+### 🐾 Animal Rescue System — Wild Animal Support Platform (Front-end)
+
+Web platform for reporting and tracking rescue cases of wild animals, including donation flows and follow-up of animals’ recovery.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-blue?style=flat)
+
+![AnimalRescue](https://github.com/NureKalenykVira/portfolio-assets/blob/main/animal-rescue-system/ARS-1.png?raw=true)
+![AnimalRescue](https://github.com/NureKalenykVira/portfolio-assets/blob/main/animal-rescue-system/ARS-2.png?raw=true)
+![AnimalRescue](https://github.com/NureKalenykVira/portfolio-assets/blob/main/animal-rescue-system/ARS-3.png?raw=true)
+
+🔗 Repository: https://github.com/NureKalenykVira/animal-rescue-system
+
+---
+
+### 🏠 Home Manager — Family Tasks & Events Management (Full-stack)
+
+Collaborative system for managing family tasks and events with shared access, role-based permissions and real-time updates.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+![HomeManager](https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-1.png?raw=true)
+![HomeManager](https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-2.png?raw=true)
+![HomeManager](https://github.com/NureKalenykVira/portfolio-assets/blob/main/home-manager/HM-3.png?raw=true)
+
+🔗 Repository: https://github.com/NureKalenykVira/home-manager
+
+---
+
+### 📊 Algorithms & Data Structures — Interactive Visualizations
+
+Interactive visualizations of classical algorithms and data structures with focus on correctness, performance and clear visual explanation.
+
+![Algorithms](https://github.com/NureKalenykVira/portfolio-assets/blob/main/algorithms/AL-1.png?raw=true)
+![Algorithms](https://github.com/NureKalenykVira/portfolio-assets/blob/main/algorithms/AL-2.png?raw=true)
+![Algorithms](https://github.com/NureKalenykVira/portfolio-assets/blob/main/algorithms/AL-3.png?raw=true)
+
+🔗 Repositories:  
+https://github.com/NureKalenykVira/Ford-Fulkerson-Algorithm-Visualization  
+https://github.com/NureKalenykVira/SplayTreeVisualization
