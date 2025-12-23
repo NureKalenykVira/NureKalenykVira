@@ -91,9 +91,9 @@ Online store with a custom Go backend, featuring product catalog, cart and order
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 
-![StilyShop](https://github.com/NureKalenykVira/portfolio-assets/blob/main/stily-shop/ST-1.png?raw=true)
-![StilyShop](https://github.com/NureKalenykVira/portfolio-assets/blob/main/stily-shop/ST-2.png?raw=true)
-![StilyShop](https://github.com/NureKalenykVira/portfolio-assets/blob/main/stily-shop/ST-3.png?raw=true)
+<img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/stily-shop/ST-1.png?raw=true" width="32%" />
+<img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/stily-shop/ST-2.png?raw=true" width="32%" />
+<img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/stily-shop/ST-3.png?raw=true" width="32%" />
 
 🔗 Repository: https://github.com/NureKalenykVira/stily_shop
 
