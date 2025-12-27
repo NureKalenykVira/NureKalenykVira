@@ -6,7 +6,7 @@ Software Engineering student with hands-on experience in building production-lik
 📫 **Contact**
 - Email: vira.kalenyk07@gmail.com  
 - Telegram: @virakalenyk  
-- LinkedIn: coming soon
+- LinkedIn: www.linkedin.com/in/vira-kalenyk-5bb0763a2
 
 ---
 
