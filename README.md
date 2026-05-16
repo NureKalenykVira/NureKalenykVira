@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Vira
 
-Full-stack Developer (Internship / Junior level)  
+Full-stack Developer 
 Software Engineering student with hands-on experience in building production-like end-to-end web applications.
 
 📫 **Contact**
