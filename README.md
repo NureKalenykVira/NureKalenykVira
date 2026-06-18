@@ -66,6 +66,27 @@ Software Engineering student with hands-on experience in building production-lik
 
 ## 📌 Featured Projects
 
+### 🗳️ VoteMe — Blockchain Voting Platform (Full-stack)
+ 
+Web platform for organizing transparent and verifiable electronic votings with cryptographic commitment scheme and Merkle-proof-based vote verification on Ethereum Sepolia.
+ 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+ 
+<img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/voteme/%D0%97%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F3.png?raw=true" width="23%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/voteme/%D0%97%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F4.png?raw=true" width="23%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/voteme/%D0%97%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F2.png?raw=true" width="23%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/voteme/%D0%97%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F5.png?raw=true" width="23%" />
+ 
+<img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/voteme/%D0%97%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F6.png?raw=true" width="30%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/voteme/%D0%97%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F7.png?raw=true" width="30%" /> <img src="https://github.com/NureKalenykVira/portfolio-assets/blob/main/voteme/%D0%97%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F8.png?raw=true" width="30%" />
+ 
+🔗 Repository: https://github.com/NureKalenykVira/voteme  
+🌐 Live: https://voteme-frontend.onrender.com
+ 
+---
+
 ### 🛒 Stily Shop — E-commerce Platform with Custom Backend (Full-stack)
 
 Online store with a custom Go backend, featuring product catalog, cart and order processing.
